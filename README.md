@@ -1,6 +1,8 @@
 # Tokyo Night for pdoc
 
-Disappointed with the lack of good dark themes for pdoc, I created my own based on [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) with a hint of my other favorite theme [Moonic](https://github.com/yusoofsh/moonic).
+Disappointed with the lack of good dark themes for pdoc, I created my own based on [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) with a hint of my other favorite theme [Moonic](https://github.com/yusoofsh/moonic). It uses [JetBrains Mono](https://www.jetbrains.com/lp/mono/) for code formatting.
+
+<img src="screenshot.png" alt="Screenshot of pdoc-tokyo-night in action"></img>
 
 ## Usage
 
@@ -10,11 +12,5 @@ Disappointed with the lack of good dark themes for pdoc, I created my own based 
 ```bash
 pdoc -t pdoc-tokyo-night $PKG_NAME
 ```
-
-## Screenshots
-
-<img src="screenshots/full-page.png" alt="Full page example of pdoc-tokyo-night"></img>
-
-<img src="screenshots/with-classes.png" alt="Another example of pdoc-tokyo-night with classes"></img>
 
 I hope it helps ~~brighten~~ darken up your documentation. Enjoy!
